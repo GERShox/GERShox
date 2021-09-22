@@ -10,29 +10,21 @@
 
 ```js
 async function legend() {
-  const Hyperz = require('200iq.js');
-  const chalk = require('chalk');
+  const Shox = require('200iq.js');
 
   let doing = ['Sleeping', 'Eating', 'Coding', 'Doing Your Mom'];
-  let langs = ['JavaScript', 'NodeJS', 'ExpressJS', 'HTML5', 'CSS', 'MySQL', 'Markdown'];
-  let tools = ['Brave Browser', 'Windows', 'Linux', 'Discord', 'GitHub'];
+  let langs = ['Lua', 'HTML5', 'CSS', 'JS'];
+  let tools = ['Brave Browser', 'Windows', 'BitVise', 'Discord', 'GitHub'];
 
-  let practice = await Hyperz.randomize(doing, langs, tools);
-
-  let lifeStoryPart1 = `What's up weirdos, I'm a highschooler with a passion for Software Development and Graphic Design! `;
-  let lifeStoryPart2 = `I spend most of my time coding in Discord calls with friends, or playing games on Steam. `;
-  let lifeStoryPart3 = `Currently I am ${practice[0]}, while writing ${practice[1]} on ${practice[2]}`;
-
-  console.log(chalk.blue(lifeStoryPart1, lifeStoryPart2, lifeStoryPart3));
+  let practice = await Shox.randomize(doing, langs, tools);
 }
 exports.hyperz = legend;
 ```
 
 
-I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻. I'm currently into Discord Bot Development 🕸️ and working on my Class Extenders and Formatting 🤓.
 
 
-[![DOD Badge](https://img.shields.io/badge/TEAM-HYPERZ%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://hyperz.dev/discord)
+[![DOD Badge](https://img.shields.io/badge/TEAM-SHOX%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://hyperz.dev/discord)
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
