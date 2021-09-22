@@ -50,8 +50,8 @@ exports.hyperz = legend;
 
 <p align="left">
 <a href="https://github.com/Itz-Hyperz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Hyperz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GERShox&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GERShox&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
@@ -60,10 +60,8 @@ exports.hyperz = legend;
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
-- Laptop: HP Pavillion (I have a custom desktop)
 - Browser: Brave Browser
 - Code Editor: VSCode - The best editor out there
-- Stay Updated: [YouTube](https://hyperz.dev/youtube), [Discord](https://hyperz.dev/discord), and [Twitter](https://twitter.com/itz_hyperz)
 
 ---
 
