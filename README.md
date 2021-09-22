@@ -1,6 +1,6 @@
-## Hey 👋, I'm [Shox] (Follow Me!)
+## Hey 👋, I'm Shox,
 
-<img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logowhite.png" />
+<img align="right" height="60" width="60" alt="" src="https://i.imgur.com/7cRB8hH.png" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](http://dc.californialife.de)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)]()
