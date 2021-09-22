@@ -1,14 +1,33 @@
-## Hey 👋, I'm [Hyperz!](https://hyperz.dev/) (Follow Me!)
+## Hey 👋, I'm [Shox] (Follow Me!)
 
 <img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logowhite.png" />
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.dev/discord)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://hyperz.dev/youtube)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hyperz.dev/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/itz-hyperz)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://hyperz.dev/github)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](http://dc.californialife.de)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)]()
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://californialife.de)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/gershox)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://girhub.com/GERShox)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic) 
+```js
+async function legend() {
+  const Hyperz = require('200iq.js');
+  const chalk = require('chalk');
+
+  let doing = ['Sleeping', 'Eating', 'Coding', 'Doing Your Mom'];
+  let langs = ['JavaScript', 'NodeJS', 'ExpressJS', 'HTML5', 'CSS', 'MySQL', 'Markdown'];
+  let tools = ['Brave Browser', 'Windows', 'Linux', 'Discord', 'GitHub'];
+
+  let practice = await Hyperz.randomize(doing, langs, tools);
+
+  let lifeStoryPart1 = `What's up weirdos, I'm a highschooler with a passion for Software Development and Graphic Design! `;
+  let lifeStoryPart2 = `I spend most of my time coding in Discord calls with friends, or playing games on Steam. `;
+  let lifeStoryPart3 = `Currently I am ${practice[0]}, while writing ${practice[1]} on ${practice[2]}`;
+
+  console.log(chalk.blue(lifeStoryPart1, lifeStoryPart2, lifeStoryPart3));
+}
+exports.hyperz = legend;
+```
+
 
 I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻. I'm currently into Discord Bot Development 🕸️ and working on my Class Extenders and Formatting 🤓.
 
